@@ -8,6 +8,6 @@ mvn clean deploy -Pdeploy
 <dependency>
     <groupId>com.gitee.melin</groupId>
     <artifactId>flink-catalog-aws-glue</artifactId>
-    <version>1.0.0-2.2</version>
+    <version>1.0.0_2.2</version>
 </dependency>
 ```
